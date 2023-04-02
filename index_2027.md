@@ -1,12 +1,11 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Jonah Turner's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jonah Turner
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="datascience@byui.edu">tur18012@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
@@ -15,70 +14,58 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2014-2018`
+__Cinco Ranch High School__, Katy, TX
 
-- Full academic scholarship with 4.0 GPA
+- 3.7 GPA
 
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.8 Major GPA
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2021 - January 2022`
+__ENGIE-NA__, Houston, TX
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Worked with a team of interns and employees to orgranize and manage a database
+- Using Python, I would pull data from a Microsoft Excel spreadsheet and import it to a Microsoft Access database using Pandas and ODBC software
+- Assisted in the development and debugging of Python models which analyzed data on a PostgreSQL server.
 
-### Data Science Lead
+`October 2022 - May 2023`
+__ENGIE-NA__, Houston, TX
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Worked with a new team to collect and distribute energy market data
+- Using a variety of coding languages this data was pulled, cleaned and filtered, and finally delivered into a company database.
+- Automated the process of aggregating new data as it was disclosed to the public.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### Teaching
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`June 2022 - March 2023`
+__Code Wizards HQ__, Tutor
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Tutored children between the ages of 12 and 18 in a variety of programming languages
+- Dilligently worked with each student to overcome any issues that would prevent them from learning in my classroom.  
+- Routinely was specifically requested by previous students to teach their next class as they advanced in the program.
 
-### Data Science Consulting Team
+### Sales
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`September 2019 - December 2019`
+__Progrexion__, Sales Agent
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Excelled at making sales and was consistently ranked among the top 10 sales agents
+- Adapted to unpredictable circumstances such as angry or upset clients, which led to an increase
+in both my sales and my customer satisfaction rating
+- Developed a reputation for prompt efficient service with a high level of accuracy
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+`2008-2016`
+__Eagle Scout__, Houston, TX
 
 
 <!-- ### Footer
