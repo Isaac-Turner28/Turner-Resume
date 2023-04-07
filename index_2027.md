@@ -19,7 +19,7 @@ __Cinco Ranch High School__, Katy, TX
 
 - 3.7 GPA
 
-`Expected 2023`
+`Expected Spring 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.8 Major GPA
